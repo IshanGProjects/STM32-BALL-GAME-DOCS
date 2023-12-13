@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['ili9341_5fdisplay_5foff_20871',['ili9341_Display_Off',['../group__ILI9341__Exported__Functions.html#ga3a654e86b44986da487efa5e2caa643e',1,'LCD_Driver.h']]],
+  ['ili9341_5fdisplay_5fon_20872',['ili9341_Display_On',['../group__ILI9341__Exported__Functions.html#gad55293fd947fbbf686c02712b06a89cc',1,'LCD_Driver.h']]],
+  ['ili9341_5fdisplayoff_20873',['ili9341_DisplayOff',['../LCD__Driver_8c.html#a3c09dd822d1d76312b6143b8adcb00fa',1,'LCD_Driver.c']]],
+  ['ili9341_5fdisplayon_20874',['ili9341_DisplayOn',['../LCD__Driver_8c.html#ac3489560fb954b6e4bf5ac24ef99988d',1,'LCD_Driver.c']]],
+  ['ili9341_5finit_20875',['ili9341_Init',['../group__ILI9341__Exported__Functions.html#ga9f53af6ab5b6427655c61ef71fa4a442',1,'ili9341_Init(void):&#160;LCD_Driver.c'],['../group__ILI9341__Exported__Functions.html#ga9f53af6ab5b6427655c61ef71fa4a442',1,'ili9341_Init(void):&#160;LCD_Driver.c']]],
+  ['ili9341_5fread_5fdata_20876',['ili9341_Read_Data',['../group__ILI9341__Exported__Functions.html#gaa9ccfa6fd034e034321d69ae86c5789c',1,'LCD_Driver.h']]],
+  ['ili9341_5freaddata_20877',['ili9341_ReadData',['../LCD__Driver_8c.html#a8a2a8f4eb728128a111362c7e552634f',1,'LCD_Driver.c']]],
+  ['ili9341_5fsend_5fdata_20878',['ili9341_Send_Data',['../group__ILI9341__Exported__Functions.html#ga2ab32c85fa63d2acadeffc52a494f168',1,'ili9341_Send_Data(uint16_t RegValue):&#160;LCD_Driver.c'],['../group__ILI9341__Exported__Functions.html#ga2ab32c85fa63d2acadeffc52a494f168',1,'ili9341_Send_Data(uint16_t RegValue):&#160;LCD_Driver.c']]],
+  ['ili9341_5fwrite_5freg_20879',['ili9341_Write_Reg',['../group__ILI9341__Exported__Functions.html#ga4adb2f8560c2addc44f415420f56d783',1,'ili9341_Write_Reg(uint8_t LCD_Reg):&#160;LCD_Driver.c'],['../group__ILI9341__Exported__Functions.html#ga4adb2f8560c2addc44f415420f56d783',1,'ili9341_Write_Reg(uint8_t LCD_Reg):&#160;LCD_Driver.c']]],
+  ['initialise_5fmonitor_5fhandles_20880',['initialise_monitor_handles',['../main_8c.html#aeb6252b81c496380fcf11b7d6970c573',1,'main.c']]],
+  ['irq_5fclear_5fpending_5finterrupt_20881',['IRQ_Clear_Pending_Interrupt',['../InterruptControl_8c.html#a530457edc0731cdae4dcf05b58f8eeaf',1,'IRQ_Clear_Pending_Interrupt(uint8_t IRQ):&#160;InterruptControl.c'],['../InterruptControl_8h.html#a530457edc0731cdae4dcf05b58f8eeaf',1,'IRQ_Clear_Pending_Interrupt(uint8_t IRQ):&#160;InterruptControl.c']]],
+  ['irq_5fdisable_5f_5finterrupt_20882',['IRQ_Disable__Interrupt',['../InterruptControl_8h.html#a53683be7736ed31327b9feee9f5c1863',1,'IRQ_Disable__Interrupt(uint8_t IRQ):&#160;InterruptControl.c'],['../InterruptControl_8c.html#a53683be7736ed31327b9feee9f5c1863',1,'IRQ_Disable__Interrupt(uint8_t IRQ):&#160;InterruptControl.c']]],
+  ['irq_5fenable_5finterrupt_20883',['IRQ_Enable_Interrupt',['../InterruptControl_8h.html#aa8a41830181d3597a32c691d25516f6c',1,'IRQ_Enable_Interrupt(uint8_t IRQ):&#160;InterruptControl.c'],['../InterruptControl_8c.html#aa8a41830181d3597a32c691d25516f6c',1,'IRQ_Enable_Interrupt(uint8_t IRQ):&#160;InterruptControl.c']]],
+  ['irq_5fset_5fpending_5finterrupt_20884',['IRQ_Set_Pending_Interrupt',['../InterruptControl_8h.html#acc16dd09a7f194d19b840d988e31896a',1,'IRQ_Set_Pending_Interrupt(uint8_t IRQ):&#160;InterruptControl.c'],['../InterruptControl_8c.html#acc16dd09a7f194d19b840d988e31896a',1,'IRQ_Set_Pending_Interrupt(uint8_t IRQ):&#160;InterruptControl.c']]],
+  ['isballcollected_20885',['isBallCollected',['../group__GameFunctions.html#ga4fce2b601757cfd98afc056be6ebf0d7',1,'isBallCollected(int16_t playerX, int16_t playerY, TargetBall *target):&#160;ApplicationCode.c'],['../group__GameFunctions.html#ga4fce2b601757cfd98afc056be6ebf0d7',1,'isBallCollected(int16_t playerX, int16_t playerY, TargetBall *target):&#160;ApplicationCode.c']]],
+  ['isballoutofbounds_20886',['IsBallOutOfBounds',['../group__GameFunctions.html#ga4a5e9f05a4ac14a9253ea49c31caa2e4',1,'IsBallOutOfBounds(int16_t xPos, int16_t yPos, uint16_t radius):&#160;ApplicationCode.c'],['../group__GameFunctions.html#ga4a5e9f05a4ac14a9253ea49c31caa2e4',1,'IsBallOutOfBounds(int16_t xPos, int16_t yPos, uint16_t radius):&#160;ApplicationCode.c']]],
+  ['itm_5fcheckchar_20887',['ITM_CheckChar',['../group__CMSIS__core__DebugFunctions.html#gae61ce9ca5917735325cd93b0fb21dd29',1,'core_armv8mml.h']]],
+  ['itm_5freceivechar_20888',['ITM_ReceiveChar',['../group__CMSIS__core__DebugFunctions.html#gac3ee2c30a1ac4ed34c8a866a17decd53',1,'core_armv8mml.h']]],
+  ['itm_5fsendchar_20889',['ITM_SendChar',['../group__CMSIS__core__DebugFunctions.html#gac90a497bd64286b84552c2c553d3419e',1,'core_armv8mml.h']]]
+];

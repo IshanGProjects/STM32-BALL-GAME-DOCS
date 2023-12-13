@@ -1,0 +1,37 @@
+<map id="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h" name="Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h">
+<area shape="rect" id="node1" title="Header file of FLASH RAMFUNC driver." alt="" coords="2195,5,2378,61"/>
+<area shape="rect" id="node2" href="$stm32f4xx__hal__flash_8h.html" title="Header file of FLASH HAL module." alt="" coords="2195,109,2378,165"/>
+<area shape="rect" id="node3" href="$stm32f4xx__hal__conf_8h.html" title=" " alt="" coords="2212,213,2361,255"/>
+<area shape="rect" id="node4" href="$stm32f4xx__hal_8h.html" title="This file contains all the functions prototypes for the HAL module driver." alt="" coords="2184,303,2389,344"/>
+<area shape="rect" id="node5" href="$Gyro_8h.html" title=" " alt="" coords="189,407,312,433"/>
+<area shape="rect" id="node7" href="$main_8h.html" title=" " alt="" coords="461,645,585,672"/>
+<area shape="rect" id="node15" href="$LCD__Driver_8h.html" title="Header file for the ILI9341 TFT LCD driver on STM32F4." alt="" coords="373,407,536,433"/>
+<area shape="rect" id="node17" href="$InterruptControl_8c.html" title=" " alt="" coords="611,407,805,433"/>
+<area shape="rect" id="node18" href="$stm32f4xx__hal_8c.html" title="HAL module driver. This is the common part of the HAL initialization." alt="" coords="829,399,1035,441"/>
+<area shape="rect" id="node19" href="$stm32f4xx__hal__cortex_8c.html" title="CORTEX HAL module driver. This file provides firmware functions to manage the following functionaliti..." alt="" coords="1059,392,1242,448"/>
+<area shape="rect" id="node20" href="$stm32f4xx__hal__dma_8c.html" title="DMA HAL module driver." alt="" coords="1266,392,1449,448"/>
+<area shape="rect" id="node21" href="$stm32f4xx__hal__dma__ex_8c.html" title="DMA Extension HAL module driver This file provides firmware functions to manage the following functio..." alt="" coords="1473,392,1655,448"/>
+<area shape="rect" id="node22" href="$stm32f4xx__hal__dsi_8c.html" title="DSI HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="1679,392,1862,448"/>
+<area shape="rect" id="node23" href="$stm32f4xx__hal__exti_8c.html" title="EXTI HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="1886,392,2069,448"/>
+<area shape="rect" id="node24" href="$stm32f4xx__hal__flash_8c.html" title="FLASH HAL module driver. This file provides firmware functions to manage the following functionalitie..." alt="" coords="2093,392,2275,448"/>
+<area shape="rect" id="node25" href="$stm32f4xx__hal__flash__ex_8c.html" title="Extended FLASH HAL module driver. This file provides firmware functions to manage the following funct..." alt="" coords="2299,392,2482,448"/>
+<area shape="rect" id="node26" href="$stm32f4xx__hal__flash__ramfunc_8c.html" title="FLASH RAMFUNC module driver. This file provides a FLASH firmware functions which should be executed f..." alt="" coords="2506,392,2689,448"/>
+<area shape="rect" id="node27" href="$stm32f4xx__hal__gpio_8c.html" title="GPIO HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="2713,392,2895,448"/>
+<area shape="rect" id="node28" href="$stm32f4xx__hal__ltdc_8c.html" title="LTDC HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="2919,392,3102,448"/>
+<area shape="rect" id="node29" href="$stm32f4xx__hal__ltdc__ex_8c.html" title="LTDC Extension HAL module driver." alt="" coords="3126,392,3309,448"/>
+<area shape="rect" id="node30" href="$stm32f4xx__hal__pwr_8c.html" title="PWR HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="3333,392,3515,448"/>
+<area shape="rect" id="node31" href="$stm32f4xx__hal__pwr__ex_8c.html" title="Extended PWR HAL module driver. This file provides firmware functions to manage the following functio..." alt="" coords="3539,392,3722,448"/>
+<area shape="rect" id="node32" href="$stm32f4xx__hal__rcc_8c.html" title="RCC HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="3746,392,3929,448"/>
+<area shape="rect" id="node33" href="$stm32f4xx__hal__rcc__ex_8c.html" title="Extension RCC HAL module driver. This file provides firmware functions to manage the following functi..." alt="" coords="3953,392,4135,448"/>
+<area shape="rect" id="node34" href="$stm32f4xx__hal__rng_8c.html" title="RNG HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4159,392,4342,448"/>
+<area shape="rect" id="node35" href="$stm32f4xx__hal__spi_8c.html" title="SPI HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4366,392,4549,448"/>
+<area shape="rect" id="node6" href="$ApplicationCode_8h.html" title="Header file for the application code, defining game logic, display, and sensor interaction." alt="" coords="152,496,349,523"/>
+<area shape="rect" id="node14" href="$Gyro_8c.html" title="Implementation of functions for controlling and interfacing with the gyroscope." alt="" coords="5,496,128,523"/>
+<area shape="rect" id="node11" href="$Scheduler_8h.html" title=" " alt="" coords="109,571,264,597"/>
+<area shape="rect" id="node13" href="$ApplicationCode_8c.html" title="Implementation of application&#45;level functions for gyro control, LCD display, and game logic." alt="" coords="288,571,485,597"/>
+<area shape="rect" id="node8" href="$main_8c.html" title="Main game loop and related functionalities for the LCD&#45;based game." alt="" coords="299,727,423,754"/>
+<area shape="rect" id="node9" href="$stm32f4xx__hal__msp_8c.html" title="This file provides code for the MSP Initialization and de&#45;Initialization codes." alt="" coords="447,720,598,761"/>
+<area shape="rect" id="node10" href="$stm32f4xx__it_8c.html" title="Interrupt Service Routines." alt="" coords="622,727,799,754"/>
+<area shape="rect" id="node12" href="$Scheduler_8c.html" title="Implementation of scheduler functions for event management." alt="" coords="109,645,264,672"/>
+<area shape="rect" id="node16" href="$LCD__Driver_8c.html" title=" " alt="" coords="373,496,536,523"/>
+</map>

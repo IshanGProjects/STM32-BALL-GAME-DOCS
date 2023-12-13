@@ -1,0 +1,12 @@
+<map id="Core/Inc/Gyro.h" name="Core/Inc/Gyro.h">
+<area shape="rect" id="node1" title=" " alt="" coords="374,5,497,32"/>
+<area shape="rect" id="node2" href="$ApplicationCode_8h.html" title="Header file for the application code, defining game logic, display, and sensor interaction." alt="" coords="245,80,442,107"/>
+<area shape="rect" id="node10" href="$Gyro_8c.html" title="Implementation of functions for controlling and interfacing with the gyroscope." alt="" coords="466,80,589,107"/>
+<area shape="rect" id="node3" href="$main_8h.html" title=" " alt="" coords="167,229,291,256"/>
+<area shape="rect" id="node7" href="$Scheduler_8h.html" title=" " alt="" coords="266,155,421,181"/>
+<area shape="rect" id="node9" href="$ApplicationCode_8c.html" title="Implementation of application&#45;level functions for gyro control, LCD display, and game logic." alt="" coords="445,155,642,181"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="Main game loop and related functionalities for the LCD&#45;based game." alt="" coords="5,311,129,338"/>
+<area shape="rect" id="node5" href="$stm32f4xx__hal__msp_8c.html" title="This file provides code for the MSP Initialization and de&#45;Initialization codes." alt="" coords="153,304,304,345"/>
+<area shape="rect" id="node6" href="$stm32f4xx__it_8c.html" title="Interrupt Service Routines." alt="" coords="328,311,505,338"/>
+<area shape="rect" id="node8" href="$Scheduler_8c.html" title="Implementation of scheduler functions for event management." alt="" coords="315,229,470,256"/>
+</map>
