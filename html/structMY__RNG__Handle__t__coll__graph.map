@@ -1,5 +1,0 @@
-<map id="MY_RNG_Handle_t" name="MY_RNG_Handle_t">
-<area shape="rect" id="node1" title="RNG Handle structure. This structure represents the RNG instance and its configuration." alt="" coords="86,95,229,121"/>
-<area shape="rect" id="node2" href="$structMY__RNG__Config__t.html" title="RNG Configuration structure. This structure holds the configuration settings for the RNG module." alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node3" href="$structMY__RNG__RegDef__t.html" title=" " alt="" coords="169,5,314,32"/>
-</map>
